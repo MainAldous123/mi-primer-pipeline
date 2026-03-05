@@ -6,9 +6,9 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {
-  "test": "mocha test/test.js"
- },
+"scripts": {
+  "test": "npx mocha test/test.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MainAldous123/mi-primer-pipeline.git"
